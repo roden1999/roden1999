@@ -12,8 +12,8 @@ Hi, I’m Roden Mark 👋  <br>I’m a full-stack developer specializing in Reac
 ![](https://nirzak-streak-stats.vercel.app/?user=roden1999&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roden1999&theme=default_repocard&layout=compact&cache_seconds=1800)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Dev Quote
+![](https://raw.githubusercontent.com/roden1999/roden1999/main/quote.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=roden1999&icon=0&color=0)](https://visitcount.itsvg.in)
